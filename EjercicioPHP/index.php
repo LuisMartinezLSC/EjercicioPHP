@@ -10,7 +10,11 @@
     </head>
 
     <body>
-
+       
+		
+        <center><header><div id="vacio">
+        
+        </div>
      
       
         <div id="body">
@@ -30,7 +34,12 @@
         <center><p><a class="btn btn-primary btn-lg" href="Ejercicio2.php" role="button">Ejercicio 2</a></p></center>
         <center><p><a class="btn btn-primary btn-lg" href="Ejercicio3.php" role="button">Ejercicio 3</a></p></center>
         <center><p><a class="btn btn-primary btn-lg" href="Ejercicio4.php" role="button">Ejercicio 4</a></p></center>
-        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio5.php" role="button">Ejercicio 5</a></p></center>   
+        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio5.php" role="button">Ejercicio 5</a></p></center>
+        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio6.php" role="button">Ejercicio 6</a></p></center>
+        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio7.php" role="button">Ejercicio 7</a></p></center>
+        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio8.php" role="button">Ejercicio 8</a></p></center>
+        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio9.php" role="button">Ejercicio 9</a></p></center>
+        <center><p><a class="btn btn-primary btn-lg" href="Ejercicio10.php" role="button">Ejercicio 10</a></p></center>
                 
 
             </div>
